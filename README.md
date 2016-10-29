@@ -25,5 +25,5 @@ Diễm Trinh
     **Cú pháp:** `<kiểu dữ liệu> *tên biến con trỏ;`  
     *Ví Dụ:* `int *t` : khi đó biến t chỉ lưu trữ được **duy nhất** địa chỉ của biến thuộc kiểu int.  
    
-## 3. Sử dụng
--Sử dụng dữ liệu có địa chỉ mà con trỏ trỏ tới.
+## 3. Các phép toán:
+Cho đoạn chương trình ví dụ:
