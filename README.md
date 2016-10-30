@@ -2,7 +2,7 @@ Diễm Trinh
 
 # Báo cáo học con trỏ.
 
-*Một số hãn chế khi sử dung biến tĩnh:*
+*Một số hạn chế khi sử dung biến tĩnh:*
 - Cấp dư ô nhớ, lãng phí ô nhớ. 
 - Cấp phát thiếu ô nhớ, chương trình lỗi
 
