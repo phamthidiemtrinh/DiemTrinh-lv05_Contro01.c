@@ -60,7 +60,7 @@ printf("\n"); `
     for (i=0;i<n;i++)
          scanf ("%d",(p+i));
   `
-- `p=a` nghĩa là p lưu trữ địa chỉ cả mảng a, p=&a;p=&a[0];
+- `p=a` nghĩa là p lưu trữ địa chỉ cuả mảng a p=&a;p=&a[0];
 - p+i : (trỏ tới phần tử a[i]) p+i=&a[i]
 - đối với mảng nhiều chiều, việc xử lí địa chỉ vói con trỏ phức tạp hơn nhiều so với mảng một chiều.
 
