@@ -45,7 +45,8 @@ printf("\n"); `
 - phép so sánh `*(p+i)>*(p+j)` : nghĩa là lấy giá trị của a[i] so sánh với a[j]
 - phép toán gán: `t=*(p+i)` : nghĩa là  t=a[i];       
                  `*(p+i)=*(p+j): nghĩa là a[i]=a[j];
-- phép  truy nhập bộ nhớ
+- *()  
+- &()
 - phép tăng giảm địa chỉ.
 - ngoài ra còn có các phép toán +;-;*;/....
 
@@ -63,3 +64,4 @@ printf("\n"); `
 - p+i : (trỏ tới phần tử a[i]) p+i=&a[i]
 - đối với mảng nhiều chiều, việc xử lí địa chỉ vói con trỏ phức tạp hơn nhiều so với mảng một chiều.
 
+----- báo cáo sếp, phần này e chưa thấy gì đặc sắc @@----------
